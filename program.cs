@@ -40,7 +40,7 @@ class Program
         // HEADER
         int repete = 0;
         double percentage = 0;
-        while (repete != 10)
+        while (repete != 10) 
         {
             Console.Clear();
             logoWriter.WriteLogo();
